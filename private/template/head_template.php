@@ -23,3 +23,17 @@
  * OTHER DEALINGS IN THE SOFTWARE.
  */
 
+$page_title = "Home";
+?>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+
+    <title><?php echo $page_title; ?></title>
+    <base href="<?php echo BASE_URL; ?>">
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+
+    <link rel="shortcut icon" href="img/favicon.ico"/>
+    <link rel="stylesheet" href="css/theme.css">
+</head>
