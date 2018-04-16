@@ -25,7 +25,7 @@
 
 require_once '../private/initialize.php';
 
-$page_title = 'Home';
+$page_title = 'Interactive PHP Coder';
 ?>
 <html>
 
@@ -37,19 +37,7 @@ $page_title = 'Home';
 
 <main>
     <div class="container">
-        <div class="row text-center">
-            <div class="col-sm-6 col-sm-offset-3">
-                <h1>SJU Computer Science Society</h1>
-                <p>Presented by SJU Student Advancement of Technology Association</p>
-            </div>
-        </div>
-        <div class="row text-center">
-            <div class="col-sm-4 col-sm-offset-4">
-                <h2>PHP Basics</h2>
-                <h3>April 16th, 2018</h3>
-                <a href="interactive.php">>> Interactive PHP Coder <<</a>
-            </div>
-        </div>
+
     </div>
 </main>
 
