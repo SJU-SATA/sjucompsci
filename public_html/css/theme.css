@@ -21,3 +21,15 @@
  * FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
  * OTHER DEALINGS IN THE SOFTWARE.
  */
+
+nav .navbar-brand {
+    width: auto;
+    height: auto;
+
+    padding: 0px 15px;
+}
+
+nav .navbar-brand img {
+    width: auto;
+    height: 50px;
+}
